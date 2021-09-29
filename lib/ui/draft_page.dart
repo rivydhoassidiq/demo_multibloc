@@ -12,7 +12,7 @@ class DraftPage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: backgroundColor,
-        title: Text('Demo MultiBloc in MulitPage App'),
+        title: Text('Example MultiBloc in MulitPage App'),
       ),
       body: body,
     );
